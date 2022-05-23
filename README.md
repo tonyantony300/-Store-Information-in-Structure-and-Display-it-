@@ -1,1 +1,1 @@
-# -Store-Information-in-Structure-and-Display-it-
+dataStoreAndDispaly
